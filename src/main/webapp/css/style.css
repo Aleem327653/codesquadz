@@ -1,0 +1,20 @@
+.mycontainer{
+	width:300px;
+	height:650px;
+	background-color:gray;
+	color:white;
+	margin:0px;
+	padding:0px;
+	display:inline-block;
+	position:fixed;
+	flex-direction:column;
+}
+.usercontainer{
+	width:900px;
+	height:650px;
+	margin-left:350px;
+	margin-bottom:150px;
+	display:inline-block;
+	flex-direction:column;
+	position:scroll;
+}
